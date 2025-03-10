@@ -1,4 +1,3 @@
-
 # Simple-profile-card
 // .html code
 <!DOCTYPE html>
